@@ -73,4 +73,4 @@ output:
 
 
 ## Result:
-Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming .
