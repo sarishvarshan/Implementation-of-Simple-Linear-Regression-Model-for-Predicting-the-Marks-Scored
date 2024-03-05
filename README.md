@@ -17,15 +17,15 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Sarish Varshan V
-RegisterNumber:  212223230196
+Developed by:Balaji J
+RegisterNumber:  212221243001
 */
 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error, mean_squared_error
-df=pd.read_csv("C:/Users/giri9/Downloads/student_scores (1).csv")
+df=pd.read_csv("C:/Users/admin/Downloads/student_scores (1).csv")
 df.head()
 df.tail()
 X=df.iloc[:,:-1].values
