@@ -63,23 +63,23 @@ rmse=np.sqrt(mse)
 print("RMSE : ",rmse)
 ```
 ### output:
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/02b3be17-d981-4861-992b-f03fb1a92d29)
+1. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/02b3be17-d981-4861-992b-f03fb1a92d29)
 
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/c2552d24-ed05-464b-97ec-96e53a24cf0b)
+2. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/c2552d24-ed05-464b-97ec-96e53a24cf0b)
 
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/4ef73f76-c905-4b96-96b5-3d10bbad58f7)
+3. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/4ef73f76-c905-4b96-96b5-3d10bbad58f7)
 
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/90ccb525-1ed7-45d2-829b-ddcc25e4eef2)
+4. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/90ccb525-1ed7-45d2-829b-ddcc25e4eef2)
 
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/62e88d1f-683f-4428-bc63-b0eeda038ae1)
+5. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/62e88d1f-683f-4428-bc63-b0eeda038ae1)
 
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/6ef1f2e9-7577-4dca-bb29-d8155a0238a9)
+6. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/6ef1f2e9-7577-4dca-bb29-d8155a0238a9)
 
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/2a116f34-e259-42ce-a306-52aeb16adfc5)
+7. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/2a116f34-e259-42ce-a306-52aeb16adfc5)
 
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/7b8ecade-a71c-4d69-964b-997b47201585)
+8. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/7b8ecade-a71c-4d69-964b-997b47201585)
 
-![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/0dd3a3cc-c863-4548-b51b-36376a600956)
+9. ![image](https://github.com/sarishvarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152167665/0dd3a3cc-c863-4548-b51b-36376a600956)
 
 
 
